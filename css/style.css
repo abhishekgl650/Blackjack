@@ -1,13 +1,16 @@
 .container{
-  height: 690px;
+  height: 825px;
   border: 5px solid black;
   width: 75%;
-  margin: 20px auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
   text-align: center;
+  padding: 0px;
+  background-color: #F5F5F5;
 }
 
 .header{
-  margin: 20px;
+  margin: 5px;
   font-size:60px;
   font-style: italic;
   font-weight: bold;
@@ -15,9 +18,49 @@
 }
 
 #blackjack-result{
-  margin: 10px;
+  margin: 5px;
   font-size:40px;
   font-style: italic;
   font-weight: lighter;
+  letter-spacing: -1px;
+}
+.container h2{
+  margin:20px;
+}
+
+.flex-blackjack-row-1, .flex-blackjack-row-2{
+  display: flex;
+  border: 1px solid black;
+  padding:10px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+  
+  
+}
+.flex-blackjack-row-1{
+  background:url('https://mk0gamesnetentcxytko.kinstacdn.com/wp-content/uploads/2018/09/blackjack_background.jpg')center;
+  color:#fff;
+}
+
+.flex-blackjack-row-1 div{
+  border: 1px solid black;
+  padding: 10px;
+  flex: 1;
+  text-align: center;
+  height: 450px;
+}
+
+.your-box h1{
+  font-size:40px;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+
+.dealer-box h1{
+  font-size:40px;
+  font-style: italic;
+  font-weight: bold;
   letter-spacing: -1px;
 }
