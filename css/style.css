@@ -1,0 +1,23 @@
+.container{
+  height: 690px;
+  border: 5px solid black;
+  width: 75%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.header{
+  margin: 20px;
+  font-size:60px;
+  font-style: italic;
+  font-weight: bold;
+  letter-spacing: -1px;
+}
+
+#blackjack-result{
+  margin: 10px;
+  font-size:40px;
+  font-style: italic;
+  font-weight: lighter;
+  letter-spacing: -1px;
+}
