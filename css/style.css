@@ -37,6 +37,9 @@
   
   
 }
+.flex-blackjack-row-1{
+  border-bottom: 1px solid black;
+}
 .flex-blackjack-row-1, .flex-blackjack-row-2{
   background:url('https://mk0gamesnetentcxytko.kinstacdn.com/wp-content/uploads/2018/09/blackjack_background.jpg')center;
   color:#fff;
