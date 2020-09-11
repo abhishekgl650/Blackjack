@@ -1,5 +1,5 @@
 .container{
-  height: 825px;
+  height: 720px;
   border: 5px solid black;
   width: 75%;
   margin-top: 10px;
@@ -10,27 +10,26 @@
 }
 
 .header{
-  margin: 5px;
-  font-size:60px;
+  margin: 0px;
+  font-size:50px;
   font-style: italic;
   font-weight: bold;
   letter-spacing: -1px;
 }
 
 #blackjack-result{
-  margin: 5px;
-  font-size:40px;
+  margin: 0px;
+  font-size:30px;
   font-style: italic;
   font-weight: lighter;
   letter-spacing: -1px;
 }
 .container h2{
-  margin:20px;
+  margin:10px;
 }
 
-.flex-blackjack-row-1, .flex-blackjack-row-2{
+.flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3{
   display: flex;
-  border: 1px solid black;
   padding:10px;
   flex-wrap: wrap;
   flex-direction: row;
@@ -38,17 +37,21 @@
   
   
 }
-.flex-blackjack-row-1{
+.flex-blackjack-row-1, .flex-blackjack-row-2{
   background:url('https://mk0gamesnetentcxytko.kinstacdn.com/wp-content/uploads/2018/09/blackjack_background.jpg')center;
   color:#fff;
 }
 
 .flex-blackjack-row-1 div{
-  border: 1px solid black;
   padding: 10px;
   flex: 1;
   text-align: center;
-  height: 450px;
+  height: 375px;
+}
+
+.flex-blackjack-row-1 img{
+  width: 25%;
+  padding: 10px;
 }
 
 .your-box h1{
@@ -63,4 +66,16 @@
   font-style: italic;
   font-weight: bold;
   letter-spacing: -1px;
+}
+
+.btn{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+table, th, td{
+  padding: 5px;
+  border: 1px solid black;
 }
