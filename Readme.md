@@ -43,7 +43,9 @@
 ### 🔰 The sum of the cards is higher than the other.
 
 ## SCORING POINTS:
-### 🔰 1 Point is rewarded to winner of the game. In case of a Tie, neither party gets a point.
+### 🔰 If the user wins the game one point is added to wins table section. 
+### 🔰 If the dealer wins the game one point is added to losses table section.
+### 🔰 In case of a Tie, 1 point is added to the draws table section.
 
 ## HOW THE BUTTONS WORK:
 ### 🔰 DEAL: Generates a new set of cards to play for next round of play.
