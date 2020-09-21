@@ -1,5 +1,5 @@
 # BLACKJACK :spades:
-### -> Automated card game built with vanilla JS.
+### -> Automated card game built with vanilla JS 🔥.
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/50053760/93768600-42a91700-fc37-11ea-953d-8e59e3ad8a00.gif)
 
 ## OVERVIEW:
