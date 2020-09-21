@@ -10,3 +10,10 @@
 ###  🔰 Let the dealer draw additional cards until their hand exceeds 21.
 
 ### More info on [Wikipedia](https://en.wikipedia.org/wiki/Blackjack)
+
+
+## Technologies Used
+### 🔰 HTML5.
+### 🔰 CSS3.
+### 🔰 Bootstrap4.
+### 🔰 Javascript. 
