@@ -47,7 +47,10 @@
 ![Wins](https://user-images.githubusercontent.com/50053760/93765027-da0b6b80-fc31-11ea-9fc4-25fea4bd0c52.PNG)
 
 ### 🔰 If the dealer wins the game one point is added to losses table section.
+![Losses](https://user-images.githubusercontent.com/50053760/93765679-ec39d980-fc32-11ea-89ca-d6fe795e7075.PNG)
+
 ### 🔰 In case of a Tie, 1 point is added to the draws table section.
+![Draws](https://user-images.githubusercontent.com/50053760/93765687-efcd6080-fc32-11ea-8fb8-01238235f68d.PNG)
 
 ## HOW THE BUTTONS WORK:
 ### 🔰 DEAL: Generates a new set of cards to play for next round of play.
