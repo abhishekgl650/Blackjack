@@ -56,4 +56,9 @@
 ## WARNING:
 ### 🔰 This game does not involve betting. Betting can lead to Compulsive gamblers that can't control the impulse to gamble, even when they know their gambling is hurting themselves or their loved ones. So please think about your loved ones before gambling.
 
+## AUTHOR:
+
+### Abhishek Goyal-*initial work*
+###  Email:-*abhishekgl650@gmail.com*
+
 
