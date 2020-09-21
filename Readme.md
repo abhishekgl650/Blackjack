@@ -42,6 +42,20 @@
 ### 🔰 There is a natural blackjack (21)
 ### 🔰 The sum of the cards is higher than the other.
 
+## HOW THE BUTTONS WORK:
+
+### 🔰 Hit: Add a card to your hand.
+![hit](https://user-images.githubusercontent.com/50053760/93766376-f3151c00-fc33-11ea-9f3d-4337f72f6798.PNG)
+
+### 🔰 Stand: Your turn is complete, Dealer's turn to finish round and winner is revealed.
+![stand](https://user-images.githubusercontent.com/50053760/93766414-ff00de00-fc33-11ea-8ce6-2e607cfebac3.PNG)
+
+### 🔰 DEAL: Generates a new set of cards to play for next round of play.
+![deal](https://user-images.githubusercontent.com/50053760/93766437-088a4600-fc34-11ea-9e84-e688f266c2cd.PNG)
+
+### 🔰 RESTART: Allows you to reset the score board and start fresh.
+![Restart](https://user-images.githubusercontent.com/50053760/93766406-fad4c080-fc33-11ea-85a0-4cf3b45528a7.PNG)
+
 ## SCORING POINTS:
 ### 🔰 If the user wins the game one point is added to wins table section. 
 ![Wins](https://user-images.githubusercontent.com/50053760/93765027-da0b6b80-fc31-11ea-9fc4-25fea4bd0c52.PNG)
@@ -51,12 +65,6 @@
 
 ### 🔰 In case of a Tie, 1 point is added to the draws table section.
 ![Draws](https://user-images.githubusercontent.com/50053760/93765687-efcd6080-fc32-11ea-8fb8-01238235f68d.PNG)
-
-## HOW THE BUTTONS WORK:
-### 🔰 DEAL: Generates a new set of cards to play for next round of play.
-### 🔰 Hit: Add a card to your hand.
-### 🔰 Stay: Your turn is complete, Dealer's turn to finish round and winner is revealed.
-### 🔰 RESTART: Allows you to reset the score board and start fresh.
 
 ## WARNING:
 ### 🔰 This game does not involve betting. Betting can lead to Compulsive gamblers that can't control the impulse to gamble, even when they know their gambling is hurting themselves or their loved ones. So please think about your loved ones before gambling.
